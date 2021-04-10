@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    
+    background-color: #000000;
+    background-size: auto;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+  /*table{
+    width="280"; cellspacing="1" ;cellpadding="3"; border="0" ;bgcolor="#1E679A"
+  }*/
+  
+  h3{
+    font-size:35px;
+    color:white;
+    font-family:'Bebas Neue';/*'Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif'*/;
+    align-content:center page;
+    /*@font-face {font-family: 'fonte';src: url('https://fonts.google.com/specimen/Bebas+Neue?preview.text_type=custom#standard-styles') /*Para os demais navegadores;font-weight: normal;font-style: normal;}*/
+  }

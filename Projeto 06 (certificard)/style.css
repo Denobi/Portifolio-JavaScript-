@@ -1,0 +1,100 @@
+body{
+    background-color:#222831;
+  }
+  
+  section{
+    margin-top:100px;
+    background-color:#fb743e;
+    padding:15px;
+    max-width:500px;
+    border: 1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border-radius:10px;
+  /*    */
+    -webkit-box-shadow: 9px 12px 32px 13px rgba(0,0,0,0.66); 
+  box-shadow: 9px 12px 32px 13px rgba(0,0,0,0.66);
+  }
+  
+  #btn-aulas {
+    border: 0;
+      color: #ffffff;
+      background: #383e56;
+      font-weight:bold;
+      padding: 10px 30px;
+      font-size: 16px;
+      border-radius: 20px 1px 20px 1px;
+      margin-top: 20px;
+      cursor: pointer;
+      margin-right:5px;
+    
+  }
+  
+  header{
+    background-image:url("https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+  
+    height:80px;
+    border-radius:5px;
+  
+  }
+  
+  section h1{
+    font-size:25px;
+    text-align:center;
+    margin-top:5px;
+    font-family: 'Poppins', sans-serif;
+  /*   font-family:'Bebas Neue', cursive; */
+  }
+  h2{
+      font-size:25px;
+    text-align:center;
+    margin-top:5px;
+    font-family: 'Poppins', sans-serif;
+  }
+  h3{
+    font-size:15px;
+    font-style:bold;
+    text-align:center;
+    margin-top:-30px;
+    font-family: 'Poppins', sans-serif;
+  /*   font-family:'Bebas Neue', cursive; */
+  }
+  
+  div{
+    margin-top:-10px;
+    background-color:#ececec;
+    padding:15px;
+    
+    border-radius:10px;
+  }
+  #avatar-icon{
+    width: 150px;
+    height: 150px;
+    border-radius:100%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    transform:translateY(-76px);
+    border: 8px solid #fb743e;
+  }
+  
+  #btn-Git {
+     
+      padding:1px;
+      height:40px;
+      width: 40px; 
+      margin-left:auto;
+      margin-right:auto;
+      display:block;
+      border: 0 auto;
+      margin-top: 20px;
+      cursor: pointer;
+      background-size:cover;
+  }
+  #redes{
+    
+    margin-top:15px;
+    
+  }

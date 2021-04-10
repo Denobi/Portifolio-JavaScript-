@@ -1,0 +1,73 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 854px;
+    background-image: url('https://images3.alphacoders.com/677/thumb-1920-677583.png');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .calculadora {
+    width: 264px;
+    height:360px;
+    /*background-image: ; url('https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-2-calculadora-calc.png')*/
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  h2 {
+    font-family:"Bebas Neue";
+    position: absolute;
+    font-size:32px;
+    font-weight:bold;
+    top: 195px;
+    left: calc(40% - 72.5px);
+    /*width: 145px;*/
+    text-align: center;
+  }
+
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+.razer{
+    position: absolute;
+    top: 142px;
+    left: calc(20% - 72.5px);
+    width: 200px;
+    align-items:center;
+  
+    
+}
+.razer_1{
+    position: absolute;
+    top: 142px;
+    left: calc(90% - 72.5px);
+    width: 200px;
+  
+    
+}
